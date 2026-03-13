@@ -104,7 +104,7 @@ const nutrientColors = {
 }
 
 // Backend API base URL - Anmol
-const API_BASE_URL = "https://group8projec2nutriinsightapi.azurewebsites.net/api"
+const API_BASE_URL = "https://group8nutinfo.azurewebsites.net/api"
 
 const toNumber = (value) => {
   const parsed = Number(value)
